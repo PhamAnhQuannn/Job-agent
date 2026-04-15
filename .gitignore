@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+data/job_agent.db
+data/resumes/*
+data/cover_letters/*
+data/screenshots/*
+data/transcripts/*
+data/jobs_tracker.xlsx
+backend/data/screenshots/*
+
+# Sensitive personal documents
+*.pdf
+node_modules/
+.next/

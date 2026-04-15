@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+openpyxl
+playwright
+cryptography
+httpx
+beautifulsoup4
+playwright
+apscheduler
+python-dotenv
+openai
+fpdf2
