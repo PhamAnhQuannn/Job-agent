@@ -13,3 +13,6 @@ backend/data/screenshots/*
 *.pdf
 node_modules/
 .next/
+
+# Local debug/seed scripts containing PII (name, email, phone, address)
+backend/_check.py
